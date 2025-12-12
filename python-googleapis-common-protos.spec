@@ -1,6 +1,6 @@
 Name:		python-googleapis-common-protos
 Version:	1.69.2
-Release:	1
+Release:	2
 Source0:	https://files.pythonhosted.org/packages/source/g/googleapis-common-protos/googleapis_common_protos-%{version}.tar.gz
 Summary:	Common protobufs used in Google APIs
 URL:		https://pypi.org/project/googleapis-common-protos/
