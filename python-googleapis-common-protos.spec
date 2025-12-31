@@ -6,8 +6,8 @@ Summary:	Common protobufs used in Google APIs
 URL:		https://pypi.org/project/googleapis-common-protos/
 License:	Apache 2.0
 Group:		Development/Python
-BuildRequires:	python
 BuildSystem:	python
+BuildRequires:	python%{pyver}dist(setuptools)
 BuildArch:	noarch
 
 %description
